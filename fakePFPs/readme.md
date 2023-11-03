@@ -2,7 +2,7 @@
 
 ### Importing:
 ```css
-@import url(https://iGetUploaded/css-snippets/fakePFPs/UsersDeco.css);
+@import url(https://igetuploaded.github.io/css-snippets.io/fakePFPs/UsersDeco.css);
 ```
 
 ### Screenshot

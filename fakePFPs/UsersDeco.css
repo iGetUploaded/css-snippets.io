@@ -4,7 +4,7 @@
 .contents_f41bb2 [src*='831017867587092570'] + .header__39b23:after,
 .wrapper_edb6e0:has([src*='831017867587092570']):after,
   [style*='831017867587092570'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-graveyard-cat); /*CHANGE HERE */
+      background-image: var(--deco-newyear); /*CHANGE HERE */
   }
 
 /*Cap*/
@@ -273,8 +273,10 @@
     --deco-defensive-shield: url(https://cdn.discordapp.com/avatar-decoration-presets/a_29a0533cb3de61aa8179810188f3830d.png);
     --deco-skull-medallion: url(https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f619b04b.png);
     --deco-treasure-key: url(https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png);
+
+    
     /*==========Discord Halloween PFPs 2023==========*/
-    --deco-graveyard-cat: url(https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png);
+    --deco-graveyard-cat: url(https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png);
     --deco-ghost: url(https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png);
     --deco-minions: url(https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png);
     --deco-jacko-lantern: url(https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png);

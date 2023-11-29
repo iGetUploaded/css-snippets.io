@@ -4,7 +4,7 @@
 .contents_f41bb2 [src*='831017867587092570'] + .header__39b23:after,
 .wrapper_edb6e0:has([src*='831017867587092570']):after,
   [style*='831017867587092570'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-2024); /*CHANGE HERE */
+      background-image: var(--deco-new-year); /*CHANGE HERE */
   }
 
 /*Cap*/
@@ -285,10 +285,10 @@
     /* Christmas PFPs & Profile Effects 2023*/
 
     /*==========PFPs==========*/
-    --deco-snowglobe: url (https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png);
-    --deco-string: url (https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png);
-    --deco-pine: url (https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png);
-    --deco-2024: url (https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png); 
+    --deco-snowglobe: url(https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png);
+    --deco-string: url(https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png);
+    --deco-pine: url(https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png);
+    --deco-new-year: url(https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png); 
 
 
     /* Mario */

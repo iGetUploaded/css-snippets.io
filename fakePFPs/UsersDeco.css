@@ -4,7 +4,7 @@
 .contents_f41bb2 [src*='831017867587092570'] + .header__39b23:after,
 .wrapper_edb6e0:has([src*='831017867587092570']):after,
   [style*='831017867587092570'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-newyear); /*CHANGE HERE */
+      background-image: var(--deco-lazer); /*CHANGE HERE */
   }
 
 /*Cap*/
@@ -343,7 +343,7 @@
     --deco-heart-red: url(https://cdn.discordapp.com/attachments/1141869153125400656/1141869597977481227/Heart_Red.webp);
     --deco-beam-red: url(https://cdn.discordapp.com/attachments/1141869153125400656/1141869367479521383/Beam_Red.webp);
     --deco-beam-blue: url(https://cdn.discordapp.com/attachments/1141869153125400656/1141869358562410686/Beam_Blue.webp);
-    --deco-lazer: url(https://ugc.decor.fieryflames.dev/be998be7a406eaa94420bb9ecec16bbd.png?animate=false );
+    --deco-lazer: url(https://cdn.discordapp.com/avatar-decoration-presets/a_ea8e2e628bacdddb1ef18cb382aa454c.png?size=80&passthrough=true);
 
 
     /*ALL PROFILE EFFECTS*/

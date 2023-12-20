@@ -4,7 +4,7 @@
 .contents_f41bb2 [src*='831017867587092570'] + .header__39b23:after,
 .wrapper_edb6e0:has([src*='831017867587092570']):after,
   [style*='831017867587092570'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-newyear); /*CHANGE HERE */
+      background-image: var(--deco-test); /*CHANGE HERE */
   }
 
 /*Cap*/

@@ -4,7 +4,7 @@
 .contents_f41bb2 [src*='831017867587092570'] + .header__39b23:after,
 .wrapper_edb6e0:has([src*='831017867587092570']):after,
   [style*='831017867587092570'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-beam-blue); /*CHANGE HERE */
+      background-image: var(--deco-stop-sign); /*CHANGE HERE */
   }
 
 /*Cap*/
@@ -345,6 +345,7 @@
     --deco-beam-blue: url(https://cdn.discordapp.com/attachments/1141869153125400656/1141869358562410686/Beam_Blue.webp);
     --deco-beam-red: url(https://cdn.discordapp.com/avatar-decoration-presets/a_e11ac0d3f2b1301173847b84a1a3268f.png);
     --deco-beam-blue: url(https://cdn.discordapp.com/attachments/1141869153125400656/1141869358562410686/Beam_Blue.webp);
+    --deco-stop-sign: url(https://media.discordapp.net/attachments/1116824513263452274/1197308507641356409/image_43.png?ex=65bacb71&is=65a85671&hm=c62bb9c8bf51361a13d0c89ebc329395563d455de20fc6297a3b7ea40edeb139&=&quality=lossless);
 
 
     /*ALL PROFILE EFFECTS*/

@@ -6,7 +6,8 @@
 ```
 
 ### Screenshot
-![image](https://i.gyazo.com/1e0dc910d25bd71ca7b0e9d28b7cc974.png)
+![d17ca1bd8878165b9418fbfec8ed1f1b](https://github.com/iGetUploaded/css-snippets.io/assets/54633753/e40c24d1-2c5f-4bc0-b1fa-9c411ce0108a)
+
 
 Original code belongs to davart154. I'm using it for my friends & myself
 

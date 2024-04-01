@@ -8,8 +8,8 @@
   }
 
 /*Yurlver*/
-.contents_d3ae0d [src*='831017867587092570'] + .header__6a14d:after,
-.wrapper__3ed10:has([src*='831017867587092570']):after,
+.contents_d3ae0d [src*='586446075582480404'] + .header__6a14d:after,
+.wrapper__3ed10:has([src*='586446075582480404']):after,
   [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
       background-image: var(--deco-clown); /*CHANGE HERE */
   }

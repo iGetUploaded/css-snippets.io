@@ -114,8 +114,6 @@
 
 
   html {
-
-   
     /*Random Icons 2023*/
     --deco-stop-sign: url(https://cdn.discordapp.com/attachments/1116824513263452274/1197308507641356409/image_43.png);
     --deco-green-flames: url(https://ugc.decor.fieryflames.dev/a_d9e85c4af02061b69d4a671513ce5586.png?animate=true);
@@ -124,20 +122,3 @@
     --deco-omen: url(https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png);
     --deco-clown: url(https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png);
   }
-
-/*Avatar Dynamic Shadow*/
-.userPopoutOuter__3884e .clickable_f0c9cf .wrapper__3ed10,
-.userPopoutOuter__3884e .imageUploader_e725b4 {
-    filter: var(--profile-shadow);
-}
-.userPopoutOuter__3884e .bannerSVGWrapper__8a38c foreignObject {
-    mask: none;
-}
-.userPopoutOuter__3884e {
-    --profile-shadow: drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color)) drop-shadow(0 0 0.25px var(--profile-filter-color));
-    --profile-filter-color: var(--background-secondary-alt);
-}
-.userPopoutOuter__3884e[style] {
-    --profile-filter-color: var(--profile-avatar-border-color);
-}
-  

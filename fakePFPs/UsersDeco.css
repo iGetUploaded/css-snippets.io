@@ -14,6 +14,13 @@
       background-image: var(--deco-clown); /*CHANGE HERE */
   }
 
+/*Cap*/
+.contents_d3ae0d [src*='1119096956443181088'] + .header__6a14d:after,
+.wrapper__3ed10:has([src*='1119096956443181088']):after,
+  [style*='1119096956443181088'] .imageUploaderFileInput__4d73a:after {
+      background-image: var(--deco-clown); /*CHANGE HERE */
+  }
+
 /*SRC CODE */
 .contents_d3ae0d [src] + .header__6a14d {
     overflow: unset;
@@ -121,4 +128,5 @@
     --deco-red-flames: url(https://ugc.decor.fieryflames.dev/a_abd5203243ad0ab748b18125cb9aa16a.png?animate=true);
     --deco-omen: url(https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png);
     --deco-clown: url(https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png);
+    --deco-test: url(https://cdn.discordapp.com/attachments/1100863736039878698/1100864136998563991/String_Lights.png);
   }

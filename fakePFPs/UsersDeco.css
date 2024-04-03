@@ -18,7 +18,7 @@
 .contents_d3ae0d [src*='1119096956443181088'] + .header__6a14d:after,
 .wrapper__3ed10:has([src*='1119096956443181088']):after,
   [style*='1119096956443181088'] .imageUploaderFileInput__4d73a:after {
-      background-image: var(--deco-test); /*CHANGE HERE */
+      background-image: var(--deco-biteydog); /*CHANGE HERE */
   }
 
 /*SRC CODE */

@@ -7,7 +7,7 @@
       background-image: var(--deco-fire); /*CHANGE HERE */
   }
 
-/*Papi Chulo*/
+/*poptart*/
 .contents_d3ae0d [src*='235173773228113920'] + .header__6a14d:after,
 .wrapper__3ed10:has([src*='235173773228113920']):after,
   [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
@@ -25,7 +25,7 @@
 .contents_d3ae0d [src*='995905156975702126'] + .header__6a14d:after,
 .wrapper__3ed10:has([src*='995905156975702126']):after,
   [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
-      background-image: var(--deco-biteydog); /*CHANGE HERE */
+      background-image: var(--deco-ufo); /*CHANGE HERE */
   }
 
 /*Papii*/
@@ -152,11 +152,11 @@
     /*Random Icons */
     --deco-ice: url(https://discord.com/assets/ff23072b51710ed4f974746381ccd080.png);
     --deco-fire: url(https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png);
-    --deco-stop-sign: url(https://cdn.discordapp.com/attachments/1116824513263452274/1197308507641356409/image_43.png);
+    --deco-stop-sign: url(https://cdn.discordapp.com/attachments/992498204228726804/1241167473626320966/image_43.png?ex=664936c9&is=6647e549&hm=91157a4f2644962f76554597fdb12410c2db6b4617e30fde8b38c376b4e42657&);
     --deco-green-flames: url(https://ugc.decor.fieryflames.dev/a_d9e85c4af02061b69d4a671513ce5586.png?animate=true);
     --deco-blue-flames: url(https://ugc.decor.fieryflames.dev/a_efc703ad887fcb2f3e543ab4b1963028.png?animate=true);
     --deco-red-flames: url(https://ugc.decor.fieryflames.dev/a_abd5203243ad0ab748b18125cb9aa16a.png?animate=true);
     --deco-omen: url(https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png);
     --deco-clown: url(https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png);
-    --deco-biteydog: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' data-name='Bitey Dog' viewBox='0 0 624 624'%3E%3Cg fill='%23d4ee5c'%3E%3Cpath d='M92.3 211.1c-6.2-2.3-12-7.5-16.8-15.1-10.3-16.5-14.3-41.7-10.3-65.8l.6-.4a38.6 38.6 0 007.7 1l.5.6c-5.3 29.3 1.6 58 18.9 78.9zm7.2-129.7a72.7 72.7 0 00-5.4-5.7V75c2.4-2.2 4.9-4.3 7.4-6.2s4-2.8 6-4a89.3 89.3 0 0147-13.1 96.6 96.6 0 0112 .7l.4.6a42.5 42.5 0 00-.8 6.1l-.5.5h-6.4a89.5 89.5 0 00-42.1 10.3 77.5 77.5 0 00-16.9 11.8z'/%3E%3Cpath d='M154.5 52.2a95 95 0 0111.9.7 42 42 0 00-.8 6.2h-6.4a92.1 92.1 0 00-42.4 10.3 84.7 8
+    --deco-ufo: url(https://cdn.discordapp.com/avatar-decoration-presets/a_6fdbddb6229453eac3bbb212edf5cd1c.png);
   }

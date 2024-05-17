@@ -6,11 +6,33 @@
   [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
       background-image: var(--deco-fire); /*CHANGE HERE */
   }
+
 /*Papi Chulo*/
 .contents_d3ae0d [src*='235173773228113920'] + .header__6a14d:after,
 .wrapper__3ed10:has([src*='235173773228113920']):after,
   [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
       background-image: var(--deco-ice); /*CHANGE HERE */
+  }
+
+/*Cocount*/
+.contents_d3ae0d [src*='976775716777635920'] + .header__6a14d:after,
+.wrapper__3ed10:has([src*='976775716777635920']):after,
+  [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
+      background-image: var(--deco-omen); /*CHANGE HERE */
+  }
+
+/*SirDink*/
+.contents_d3ae0d [src*='995905156975702126'] + .header__6a14d:after,
+.wrapper__3ed10:has([src*='995905156975702126']):after,
+  [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
+      background-image: var(--deco-biteydog); /*CHANGE HERE */
+  }
+
+/*Papii*/
+.contents_d3ae0d [src*='272547077006032896'] + .header__6a14d:after,
+.wrapper__3ed10:has([src*='272547077006032896']):after,
+  [style*='831017867587092570'] .imageUploaderFileInput__4d73a:after {
+      background-image: var(--deco-stop-sign); /*CHANGE HERE */
   }
 
 /*Yurlver*/

@@ -32,7 +32,7 @@
 .contents_f9f2ca [src*="1017562272383631390"] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*="1017562272383631390"]):after,
 [style*="1017562272383631390"] .imageUploaderFileInput_de76e4:after {
-  background-image: var(--deco-hotdog); /*CHANGE HERE */
+  background-image: var(--deco-ring); /*CHANGE HERE */
 }
 
 /* Papi Chulo*/
@@ -190,5 +190,5 @@ html {
   --deco-omen: url(https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png);
   --deco-clown: url(https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png);
   --deco-ufo: url(https://cdn.discordapp.com/avatar-decoration-presets/a_6fdbddb6229453eac3bbb212edf5cd1c.png);
-  --deco-hotdog: url(https://cdn.discordapp.com/attachments/1017565616741290076/1269759843942797372/svgviewer-png-output.png?ex=66b13b81&is=66afea01&hm=539a0d374d2cb5abffd33353e1c84985ad2ba08c0638f8848aceeac6c8b00044&);
+  --deco-ring: url(https://cdn.discordapp.com/avatar-decoration-presets/a_1005898c6acf56a9ac5010baf444f6fd.png);
 }

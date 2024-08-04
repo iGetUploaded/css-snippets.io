@@ -29,9 +29,9 @@
 }
 
 /*Poptart8156*/
-.contents_f9f2ca [src*="695891042037268563"] + .header_f9f2ca:after,
-.wrapper_c51b4e:has([src*="695891042037268563"]):after,
-[style*="695891042037268563"] .imageUploaderFileInput_de76e4:after {
+.contents_f9f2ca [src*="1017562272383631390"] + .header_f9f2ca:after,
+.wrapper_c51b4e:has([src*="1017562272383631390"]):after,
+[style*="1017562272383631390"] .imageUploaderFileInput_de76e4:after {
   background-image: var(--deco-hotdog); /*CHANGE HERE */
 }
 

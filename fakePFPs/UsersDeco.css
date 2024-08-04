@@ -49,6 +49,15 @@
       background-image: var(--deco-blue-flames); /*CHANGE HERE */
   }
 
+/*FuzzyDdemon*/
+.contents_f9f2ca [src*='775599604116750357'] + .header_f9f2ca:after,
+.wrapper_c51b4e:has([src*='775599604116750357']):after,
+  [style*='1119096956443181088'] .imageUploaderFileInput_de76e4:after {
+      background-image: var(--deco-ufo); /*CHANGE HERE */
+  }
+
+
+
 /*SRC CODE */
 .contents_f9f2ca [src] + .header_f9f2ca {
     overflow: unset;

@@ -10,35 +10,35 @@
 /*poptart*/
 .contents_f9f2ca [src*='235173773228113920'] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*='235173773228113920']):after,
-  [style*='831017867587092570'] .imageUploaderFileInput_de76e4:after {
+  [style*='235173773228113920'] .imageUploaderFileInput_de76e4:after {
       background-image: var(--deco-ice); /*CHANGE HERE */
   }
 
 /*Cocount*/
 .contents_f9f2ca [src*='976775716777635920'] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*='976775716777635920']):after,
-  [style*='831017867587092570'] .imageUploaderFileInput_de76e4:after {
+  [style*='976775716777635920'] .imageUploaderFileInput_de76e4:after {
       background-image: var(--deco-omen); /*CHANGE HERE */
   }
 
 /*SirDink*/
 .contents_f9f2ca [src*='995905156975702126'] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*='995905156975702126']):after,
-  [style*='831017867587092570'] .imageUploaderFileInput_de76e4:after {
+  [style*='995905156975702126'] .imageUploaderFileInput_de76e4:after {
       background-image: var(--deco-ufo); /*CHANGE HERE */
   }
 
 /*Papii*/
 .contents_f9f2ca [src*='272547077006032896'] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*='272547077006032896']):after,
-  [style*='831017867587092570'] .imageUploaderFileInput_de76e4:after {
+  [style*='272547077006032896'] .imageUploaderFileInput_de76e4:after {
       background-image: var(--deco-stop-sign); /*CHANGE HERE */
   }
 
 /*Yurlver*/
 .contents_f9f2ca [src*='586446075582480404'] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*='586446075582480404']):after,
-  [style*='831017867587092570'] .imageUploaderFileInput_de76e4:after {
+  [style*='586446075582480404'] .imageUploaderFileInput_de76e4:after {
       background-image: var(--deco-clown); /*CHANGE HERE */
   }
 
@@ -52,7 +52,7 @@
 /*FuzzyDdemon*/
 .contents_f9f2ca [src*='775599604116750357'] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*='775599604116750357']):after,
-  [style*='1119096956443181088'] .imageUploaderFileInput_de76e4:after {
+  [style*='775599604116750357'] .imageUploaderFileInput_de76e4:after {
       background-image: var(--deco-ufo); /*CHANGE HERE */
   }
 

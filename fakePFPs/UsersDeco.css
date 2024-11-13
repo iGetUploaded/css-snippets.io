@@ -57,9 +57,9 @@
 }
 
 /*Capy*/
-.contents_f9f2ca [src*="1119096956443181088"] + .header_f9f2ca:after,
-.wrapper_c51b4e:has([src*="1119096956443181088"]):after,
-[style*="1119096956443181088"] .imageUploaderFileInput_de76e4:after {
+.contents_f9f2ca [src*="272547077006032896"] + .header_f9f2ca:after,
+.wrapper_c51b4e:has([src*="272547077006032896"]):after,
+[style*="272547077006032896"] .imageUploaderFileInput_de76e4:after {
   background-image: var(--deco-stop); /*CHANGE HERE */
 }
 
@@ -198,5 +198,5 @@ html {
   --deco-clown: url(https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png);
   --deco-ufo: url(https://cdn.discordapp.com/avatar-decoration-presets/a_6fdbddb6229453eac3bbb212edf5cd1c.png);
   --deco-ring: url(https://cdn.discordapp.com/avatar-decoration-presets/a_1005898c6acf56a9ac5010baf444f6fd.png);
-  --deco-stop: url(https://cdn.discordapp.com/attachments/1116824513263452274/1306327089712201779/5472016b27ce36cb873c0b2efdda9683-min.png?ex=67364368&is=6734f1e8&hm=96ec57eb05ee2160315da831209f80f989c0c9c7cbe72c7270371d0cb8de9a7c&);
+  --deco-stop: url(https://ugc.decor.fieryflames.dev/5472016b27ce36cb873c0b2efdda9683.png);
 }

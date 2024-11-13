@@ -60,7 +60,7 @@
 .contents_f9f2ca [src*="1119096956443181088"] + .header_f9f2ca:after,
 .wrapper_c51b4e:has([src*="1119096956443181088"]):after,
 [style*="1119096956443181088"] .imageUploaderFileInput_de76e4:after {
-  background-image: var(--deco-blue-flames); /*CHANGE HERE */
+  background-image: var(--deco-stop); /*CHANGE HERE */
 }
 
 /*SRC CODE */

@@ -1,4 +1,4 @@
-Original author is MiniDiscordThemes I just updated it.
+> Original author is MiniDiscordThemes I just updated it.
 # Billboard
 
 ### Importing:
@@ -23,20 +23,20 @@ Original author is MiniDiscordThemes I just updated it.
 
 
 
-## Original authoer is Aurora Riddim-GLiTCH · It/Its (Certified Doggirl) I just use it for myself.
+> Original authoer is Aurora Riddim-GLiTCH · It/Its (Certified Doggirl) I just use it for myself.
 
 ## Importing:
 ```css
 @import url(https://igetuploaded.github.io/css-snippets.io/ExtraImports/VoiceSpine.css);
 ```
-## Importing:
+
 ```css
 @import url(https://igetuploaded.github.io/css-snippets.io/ExtraImports/HoverServer.css);
 ```
 
 
-## Screenshot
-
+### Screenshot
 # Voice Spine
+![Capture](https://github.com/user-attachments/assets/db0d6a4e-2aa8-4280-bfe7-1af28cda2d3b)
 
 # Hover Server

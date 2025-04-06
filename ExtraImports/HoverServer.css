@@ -1,0 +1,28 @@
+/*Hover Servers*/
+.guilds_c48ade,
+.tutorialContainer__1f388,
+.listItem__650eb,
+.sidebarList_c48ade {
+  transition: width 0.3s ease, padding 0.3s ease, opacity 0.3s ease, margin 0.3s ease;
+}
+.guilds_c48ade:not(:hover) {
+  padding-left: 25px;
+  width: 60px;
+  opacity: 0;
+}
+.sidebar_c48ade:has(.guilds_c48ade:not(:hover)) .sidebarList_c48ade {
+  margin-left: -70px;
+  width: calc(var(--custom-guild-sidebar-width) + -15px);
+}
+.guilds_c48ade:not(:hover) .tutorialContainer__1f388,
+.guilds_c48ade:not(:hover) .listItem__650eb {
+  opacity: 0;
+  transition-delay: 1.5s;
+}
+.bannerImage_f37cb1,
+.animatedContainer_f37cb1 {
+  display: none;
+}
+#channels .content__99f8c div[style*="height"] {
+  margin-top: -65px
+}

@@ -13,7 +13,8 @@
 
   /* Spine Accent Color. Set to var(--variable-name-zyx) to use a global var. */
   /* Or set a color manually using RGB, Hex or HSL. Default: var(--brand-experiment) */
-  --Spine-Color: var(--brand-experiment);
+  /* To manually set get rid of var(--brand-experiment) & change to --Spine-Color: */
+  --Spine-Color: rgb(10, 163, 201); /* This is a red-orange color */
 }
 
 .list_c3cd7d {

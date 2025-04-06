@@ -29,6 +29,14 @@ Original author is MiniDiscordThemes I just updated it.
 ```css
 @import url(https://igetuploaded.github.io/css-snippets.io/ExtraImports/VoiceSpine.css);
 ```
+## Importing:
+```css
+@import url(https://igetuploaded.github.io/css-snippets.io/ExtraImports/HoverServer.css);
+```
 
 
 ## Screenshot
+
+# Voice Spine
+
+# Hover Server

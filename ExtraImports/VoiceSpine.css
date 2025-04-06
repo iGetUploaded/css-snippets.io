@@ -1,0 +1,39 @@
+/* Voice Spine Code */
+:root {
+  /* --Voice Spine Settigs-- */
+  /* Determines the thickness of the line on the Voice User panel. Default: 3px */
+  --Spine-Thickness: 3px;
+
+  /* Shifts the Spine of not the last user by a certain amount. May need to be adjusted if used */
+  /* Alongside Better Channels List. Must be a Negative amount: Default: -35px */
+  --Spine-Upward-Margin: -35px;
+
+  /* Determines the bluntness of the angle of for the last user. Default: 8px */
+  --Spine-Last-User-Angle: 8px;
+
+  /* Spine Accent Color. Set to var(--variable-name-zyx) to use a global var. */
+  /* Or set a color manually using RGB, Hex or HSL. Default: var(--brand-experiment) */
+  --Spine-Color: var(--brand-experiment);
+}
+
+.list_c3cd7d {
+  .draggable__55bab {
+    margin-left: -15px;
+    display: flex;
+    align-items: center;
+    &:not(:last-of-type):before {
+      content: "";
+      border-left: var(--Spine-Thickness) solid var(--Spine-Color);
+      margin-top: var(--Spine-Upward-Margin);
+      padding: 20px 5px;
+    }
+    &:last-of-type:before {
+      content: "";
+      border-left: var(--Spine-Thickness) solid var(--Spine-Color);
+      border-bottom: var(--Spine-Thickness) solid var(--Spine-Color);
+      border-bottom-left-radius: 5px;
+      margin-top: -35px;
+      padding: 20px 5px;
+    }
+  }
+}

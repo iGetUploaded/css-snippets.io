@@ -4,7 +4,7 @@
 .contents_c19a55 [src*="831017867587092570"] + .header_c19a55:after,
 .wrapper__44b0c:has([src*="831017867587092570"]):after,
 [style*="831017867587092570"] .imageUploaderFileInput_e4d0bf:after {
-  background-image: var(--deco-fire); /*CHANGE HERE */
+  background-image: var(--deco-pressf); /*CHANGE HERE */
 }
 
 /*_poptarts_*/
@@ -199,4 +199,5 @@ html {
   --deco-ufo: url(https://cdn.discordapp.com/avatar-decoration-presets/a_6fdbddb6229453eac3bbb212edf5cd1c.png);
   --deco-ring: url(https://cdn.discordapp.com/avatar-decoration-presets/a_1005898c6acf56a9ac5010baf444f6fd.png);
   --deco-stop: url(https://ugc.decor.fieryflames.dev/5472016b27ce36cb873c0b2efdda9683.png);
+  --deco-pressf: url(https://cdn.discordapp.com/avatar-decoration-presets/a_fbbdd5565db1c91d95804f7df0074c5a.png);
 }

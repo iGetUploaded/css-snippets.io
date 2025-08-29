@@ -1,5 +1,3 @@
-> Original author is MiniDiscordThemes I just updated it.
-
 ### Importing:
 ```css
 @import url(https://igetuploaded.github.io/css-snippets.io/ExtraImports/billboard.css);

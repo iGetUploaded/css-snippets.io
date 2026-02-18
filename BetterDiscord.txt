@@ -121,42 +121,12 @@ pointer-events: none;
 /*GITHUB*/
 /* USERS HERE */
 
-/*Me*/
-.contents_f41bb2 [src*='831017867587092570'] + .header__39b23:after,
-.wrapper_edb6e0:has([src*='831017867587092570']):after,
-  [style*='831017867587092570'] .imageUploaderFileInput_aaa178:after {
+
+.contents_f41bb2 [src*='ID HERE'] + .header__39b23:after,
+.wrapper_edb6e0:has([src*='ID HERE']):after,
+  [style*='ID HERE'] .imageUploaderFileInput_aaa178:after {
       background-image: var(--deco-graveyard-cat); /*CHANGE HERE */
   }
-
-/*Cap*/
-.contents_f41bb2 [src*='1119096956443181088'] + .header__39b23:after,
-.wrapper_edb6e0:has([src*='1119096956443181088']):after,
-  [style*='1119096956443181088'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-de-scream); /*CHANGE HERE */
-  }
-
-/*Slate*/
-.contents_f41bb2 [src*='349685712188211202'] + .header__39b23:after,
-.wrapper_edb6e0:has([src*='349685712188211202']):after,
-  [style*='349685712188211202'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-a-speedy); /*CHANGE HERE */
-  }
-
-/*Robby*/
-.contents_f41bb2 [src*='865874496942899220'] + .header__39b23:after,
-.wrapper_edb6e0:has([src*='865874496942899220']):after,
-  [style*='349685712188211202'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-minions); /*CHANGE HERE */
-  }
-
-/*Yukiiibae*/
-.contents_f41bb2 [src*='865874496942899220'] + .header__39b23:after,
-.wrapper_edb6e0:has([src*='865874496942899220']):after,
-  [style*='349685712188211202'] .imageUploaderFileInput_aaa178:after {
-      background-image: var(--deco-frog-hatt); /*CHANGE HERE */
-  }
-
-
 
 /*SRC CODE */
 .contents_f41bb2 [src] + .header__39b23 {
@@ -261,35 +231,24 @@ pointer-events: none;
 
 [class^=message_] { 
   /* Normal Message nicknames.    ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ Replace this with the user ID of the person you want to give a nickname.*/
-  [class*=contents]:has(img[src*="478690391575494666"]) [class*=username] {
+  [class*=contents]:has(img[src*="ID HERE"]) [class*=username] {
     font-size: 0;
     margin-top: 5px!important;
     &::after{
       font-size: medium!important;
-      content: "Femboy Enjoyers"; /* Put your desired nickname here*/
+      content: ""; /* Put your desired nickname here*/
     }
   }
   /* Replied context nicknames.             ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ Replace this with the user ID of the person you want to give a nickname.*/
-  [id*=message-reply-context]:has(img[src*="478690391575494666"]) [class*=username] {
+  [id*=message-reply-context]:has(img[src*=""]) [class*=username] {
     font-size: 0;
     margin-top: 5px!important;
     &::after{
       font-size: medium!important;
-      content: "Leftnut Sucker"; /* Put your desired nickname here*/
+      content: ""; /* Put your desired nickname here*/
     }
   } 
 }
-/*Faze Snoobert*/
-[class*=contents]:has(img[src*="348231716004954115"]) [class*=username] {
-  font-size: 0;
-  margin-top: 5px!important;
-  &::after{
-    font-size: medium!important;
-    content: "Faze Boobert"; /* Put your desired nickname here*/
-  }
-}
-
-
 
 
   html {
@@ -568,7 +527,7 @@ pointer-events: none;
 
 /* Main container with text ( Banner Left to Right ) */
 .typeWindows__421ed .wordmarkWindows__421ed::after {
-  content: "ImJustMoist | CursedPoptart";  /* Your text */
+  content: " | ";  /* Your text */
   font-family: "JetBrains Mono", monospace; /* Font */
   font-size: 18px; /* Font size */
   white-space: nowrap;
@@ -596,7 +555,7 @@ pointer-events: none;
 display: none !important;
 }
 html.theme-dark .wordmark__421ed::before {
-content: "‏‏‎ 𝙄𝙢𝙅𝙪𝙨𝙩𝙈𝙤𝙞𝙨𝙩"; /* Your text */
+content: "‏‏‎ "; /* Your text */
 font-size: 12px;
 font-weight: bold;
 position: fixed;
@@ -618,7 +577,7 @@ background-image: linear-gradient(
 
 /*top right*/
 #app-mount .typeWindows__421ed:after {
-  content: "𝙄𝙢𝙅𝙪𝙨𝙩𝙈𝙤𝙞𝙨𝙩"; /* Your text */
+  content: ""; /* Your text */
   color: transparent !important;
 font-weight: bold;
 background-size: 300%;
@@ -701,4 +660,5 @@ to {
   from { background-position: 0 0; }
   to { background-position: 130% 0; }
 }
+
  
